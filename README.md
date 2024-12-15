@@ -39,17 +39,17 @@ This project focuses on optimizing Dominos' ingredient ordering process by utili
 ![newplot](https://github.com/user-attachments/assets/0b016fd9-9004-4bbd-b869-d88476c8b5c2)
 
 - **Sales by Day of the Week**
-  -This visualization presents daily pizza sales over time by converting the order_date column into a datetime format.  
-  -It helps uncover trends, seasonal patterns, and sales spikes during the observed period.  
-  -The line plot represents the number of pizzas sold each day.
+  - This visualization presents daily pizza sales over time by converting the order_date column into a datetime format.  
+  - It helps uncover trends, seasonal patterns, and sales spikes during the observed period.  
+  - The line plot represents the number of pizzas sold each day.
 
 ![newplot (1)](https://github.com/user-attachments/assets/6dab52a4-f370-44ce-8d5a-605194d5cf50)
 
 ## MODEL COMPARISON: MAPE SCORES ##
-  -This visualization summarizes total sales by day of the week to determine which days generate the highest revenue.  
-  -The data is grouped by day_of_week, with total_price summed for each day.  
-  -The x-axis displays the days of the week (Monday to Sunday), and the y-axis shows the corresponding total sales.  
-  -The bar plot highlights trends in customer purchasing behavior over the week.
+  - This visualization summarizes total sales by day of the week to determine which days generate the highest revenue.  
+  - The data is grouped by day_of_week, with total_price summed for each day.  
+  - The x-axis displays the days of the week (Monday to Sunday), and the y-axis shows the corresponding total sales.  
+  - The bar plot highlights trends in customer purchasing behavior over the week.
 
 
    | **Model**   | **MAPE** | **Rank** | **Best/Worst** |
